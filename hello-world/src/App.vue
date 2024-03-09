@@ -12,7 +12,7 @@ export default {
   data(){
     return{
       name: "Dedeepya",
-      age:"twenty five",
+      age:"twenty four",
     }
   }
 }
